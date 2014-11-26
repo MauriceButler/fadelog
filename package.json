@@ -1,0 +1,24 @@
+{
+  "name": "fadelog",
+  "version": "1.0.0",
+  "description": "Log to stdout that will fade colours overtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MauriceButler/fadelog.git"
+  },
+  "keywords": [],
+  "author": "Maurice Butler <maurice.butler@gmailcom>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/fadelog/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/fadelog",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "single-line-log": "^0.4.1"
+  }
+}
